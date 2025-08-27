@@ -33,3 +33,4 @@ export interface JuegoRelations {
 
 export type JuegoWithRelations = Juego & JuegoRelations;
 //Version 2.0
+//Test prueba de uptade en github
