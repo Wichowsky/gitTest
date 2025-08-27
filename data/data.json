@@ -1,0 +1,37 @@
+{
+  "ids": {
+    "Juego": 28
+  },
+  "models": {
+    "Juego": {
+      "1": "{\"id\":1,\"juego\":\"Counter-Strike 2\",\"jugadores\":\"1,069,747\"}",
+      "2": "{\"id\":2,\"juego\":\"Dota 2\",\"jugadores\":\"612,465\"}",
+      "3": "{\"id\":3,\"juego\":\"PUBG: BATTLEGROUNDS\",\"jugadores\":\"173,967\"}",
+      "4": "{\"id\":4,\"juego\":\"Rust\",\"jugadores\":\"123,733\"}",
+      "5": "{\"id\":5,\"juego\":\"Source SDK Base 2007\",\"jugadores\":\"104,274\"}",
+      "6": "{\"id\":6,\"juego\":\"Banana\",\"jugadores\":\"99,401\"}",
+      "7": "{\"id\":7,\"juego\":\"PEAK\",\"jugadores\":\"88,971\"}",
+      "8": "{\"id\":8,\"juego\":\"Bongo Cat\",\"jugadores\":\"87,210\"}",
+      "9": "{\"id\":9,\"juego\":\"Grand Theft Auto V Legacy\",\"jugadores\":\"82,331\"}",
+      "10": "{\"id\":10,\"juego\":\"Marvel Rivals\",\"jugadores\":\"79,127\"}",
+      "11": "{\"id\":11,\"juego\":\"Dead by Daylight\",\"jugadores\":\"74,251\"}",
+      "12": "{\"id\":12,\"juego\":\"Tom Clancy's Rainbow Six® Siege X\",\"jugadores\":\"72,047\"}",
+      "13": "{\"id\":13,\"juego\":\"Baldur's Gate 3\",\"jugadores\":\"69,503\"}",
+      "14": "{\"id\":14,\"juego\":\"Apex Legends\",\"jugadores\":\"69,269\"}",
+      "15": "{\"id\":15,\"juego\":\"Football Manager 2024\",\"jugadores\":\"66,799\"}",
+      "16": "{\"id\":16,\"juego\":\"Last Epoch\",\"jugadores\":\"44,955\"}",
+      "17": "{\"id\":17,\"juego\":\"Battlefield™ 2042\",\"jugadores\":\"49,640\"}",
+      "18": "{\"id\":18,\"juego\":\"Assassin's Creed Origins\",\"jugadores\":\"4,938\"}",
+      "19": "{\"id\":19,\"juego\":\"Hollow Knight\",\"jugadores\":\"31,357\"}",
+      "20": "{\"id\":20,\"juego\":\"Discounty\",\"jugadores\":\"2,299\"}",
+      "21": "{\"id\":21,\"juego\":\"Deadlock\",\"jugadores\":\"44,632\"}",
+      "22": "{\"id\":22,\"juego\":\"TurretGirls\",\"jugadores\":\"767\"}",
+      "23": "{\"id\":23,\"juego\":\"LEGO® Batman™: The Videogame\",\"jugadores\":\"2,288\"}",
+      "24": "{\"id\":24,\"juego\":\"Anno 1800\",\"jugadores\":\"11,098\"}",
+      "25": "{\"id\":25,\"juego\":\"inZOI\",\"jugadores\":\"5,803\"}",
+      "26": "{\"id\":26,\"juego\":\"Knightica\",\"jugadores\":\"1,678\"}",
+      "27": "{\"id\":27,\"juego\":\"TCG Card Shop Simulator\",\"jugadores\":\"6,105\"}",
+      "28": "{\"id\":28,\"juego\":\"Waterpark Simulator\",\"jugadores\":\"1,729\"}"
+    }
+  }
+}
