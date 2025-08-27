@@ -25,8 +25,11 @@ export class Juego extends Entity {
   }
 }
 
+
 export interface JuegoRelations {
   // describe navigational properties here
 }
 
+
 export type JuegoWithRelations = Juego & JuegoRelations;
+//Version 2.0
