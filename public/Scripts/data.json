@@ -1,0 +1,37 @@
+{
+  "ids": {
+    "Juego": 28
+  },
+  "models": {
+    "Juego": {
+      "1": "{\"id\":1,\"juego\":\"Counter-Strike 2\",\"jugadores\":\"1,091,885\"}",
+      "2": "{\"id\":2,\"juego\":\"Dota 2\",\"jugadores\":\"685,830\"}",
+      "3": "{\"id\":3,\"juego\":\"Path of Exile 2\",\"jugadores\":\"328,828\"}",
+      "4": "{\"id\":4,\"juego\":\"PUBG: BATTLEGROUNDS\",\"jugadores\":\"262,138\"}",
+      "5": "{\"id\":5,\"juego\":\"HELLDIVERS™ 2\",\"jugadores\":\"113,328\"}",
+      "6": "{\"id\":6,\"juego\":\"Rust\",\"jugadores\":\"113,031\"}",
+      "7": "{\"id\":7,\"juego\":\"Source SDK Base 2007\",\"jugadores\":\"105,335\"}",
+      "8": "{\"id\":8,\"juego\":\"Banana\",\"jugadores\":\"105,289\"}",
+      "9": "{\"id\":9,\"juego\":\"Bongo Cat\",\"jugadores\":\"103,036\"}",
+      "10": "{\"id\":10,\"juego\":\"No Man's Sky\",\"jugadores\":\"91,898\"}",
+      "11": "{\"id\":11,\"juego\":\"Grand Theft Auto V Legacy\",\"jugadores\":\"91,850\"}",
+      "12": "{\"id\":12,\"juego\":\"Apex Legends\",\"jugadores\":\"90,505\"}",
+      "13": "{\"id\":13,\"juego\":\"Delta Force\",\"jugadores\":\"87,898\"}",
+      "14": "{\"id\":14,\"juego\":\"Wallpaper Engine\",\"jugadores\":\"77,463\"}",
+      "15": "{\"id\":15,\"juego\":\"Tom Clancy's Rainbow Six® Siege X\",\"jugadores\":\"75,636\"}",
+      "16": "{\"id\":16,\"juego\":\"METAL GEAR SOLID Δ: SNAKE EATER\",\"jugadores\":\"14,128\"}",
+      "17": "{\"id\":17,\"juego\":\"Path of Exile 2\",\"jugadores\":\"328,828\"}",
+      "18": "{\"id\":18,\"juego\":\"Sonic Racing: CrossWorlds Open Network Test\",\"jugadores\":\"7,645\"}",
+      "19": "{\"id\":19,\"juego\":\"STORY OF SEASONS: Grand Bazaar\",\"jugadores\":\"7,466\"}",
+      "20": "{\"id\":20,\"juego\":\"SUPER ROBOT WARS Y\",\"jugadores\":\"5,110\"}",
+      "21": "{\"id\":21,\"juego\":\"The Riftbreaker\",\"jugadores\":\"10,412\"}",
+      "22": "{\"id\":22,\"juego\":\"No Man's Sky\",\"jugadores\":\"91,898\"}",
+      "23": "{\"id\":23,\"juego\":\"活俠傳\",\"jugadores\":\"4,589\"}",
+      "24": "{\"id\":24,\"juego\":\"Horizon Walker\",\"jugadores\":\"2,197\"}",
+      "25": "{\"id\":25,\"juego\":\"Hell is Us\",\"jugadores\":\"2,414\"}",
+      "26": "{\"id\":26,\"juego\":\"Darkest Dungeon® II\",\"jugadores\":\"3,931\"}",
+      "27": "{\"id\":27,\"juego\":\"Whisper of the House\",\"jugadores\":\"2,136\"}",
+      "28": "{\"id\":28,\"juego\":\"Ghost Recon Breakpoint\",\"jugadores\":\"7,860\"}"
+    }
+  }
+}

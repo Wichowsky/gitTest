@@ -5,7 +5,7 @@ const config = {
   name: 'datajuegos',
   connector: 'memory',
   localStorage: '',
-  file: './data/data.json'
+  file: './public/scripts/data.json'
 };
 
 // Observe application's life cycle to disconnect the datasource when
